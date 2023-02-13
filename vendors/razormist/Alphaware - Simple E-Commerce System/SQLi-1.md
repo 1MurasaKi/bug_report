@@ -16,4 +16,4 @@ sqlmap Queries the current database: "sqlmap -u http://ip/alphaware/details.php?
 
 sqlmap injection result
 
-![image](https://github.com/1MurasaKi/picture/blob/main/detectInjection.png)
+![image](https://github.com/1MurasaKi/picture/blob/main/crdb.png)
